@@ -5,3 +5,4 @@ easyocr
 pandas
 pillow
 numpy
+PyMuPDF
